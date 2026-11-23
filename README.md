@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hadi Baloch 👋
 
-<!--
-**hadikhanhadikhan672-ai/hadikhanhadikhan672-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BS Information Technology Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a BS Information Technology student at Sindh Agriculture University, Tando Jam, Pakistan.
+
+I am interested in Python programming, Web Development, Artificial Intelligence, Cybersecurity, and Smart Agriculture.
+
+I enjoy building practical projects, exploring new technologies, and continuously improving my technical skills.
+
+My goal is to develop innovative technology solutions and contribute to the IT industry.
